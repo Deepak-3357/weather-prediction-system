@@ -2,7 +2,6 @@
 
 ## Team Members
 
-* Mohamed Rayhaan Khan (192511006)
 * Deepak R (192511008)
 * Vijay A (192511030)
 
